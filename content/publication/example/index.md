@@ -62,4 +62,4 @@ image:
 
 ---
 
-Supplementary notes can be found on [this web page](https://www.mdpi.com/1420-3049/26/17/5153).
+Supplementary material can be found on [this web page](https://www.mdpi.com/1420-3049/26/17/5153).
