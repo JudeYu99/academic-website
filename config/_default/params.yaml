@@ -28,7 +28,8 @@ address:
   postcode: '215000'
   country: China
 
-directions: School of Biology and Basic Medical Sciences, Medical College of Soochow Unicersity
+directions: Department of Bioinformatics, School of Biology and Basic Medical Sciences
+directions: Center for Systems Biology
 
 contact_links:
   - icon: researchgate

@@ -38,10 +38,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'yzhu99@stu.suda.edu.cn'
+  link: 'mailto:yzhu99@stu.suda.edu.cn'
 
 - icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.researchgate.net/profile/Yu_Zhu131
   
 - icon: github
@@ -63,8 +63,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yu Zhu is a senior undergraduate student majoring in Bioinformatics at Soochow University, China.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}Personal CV{{< /staticref >}}.
