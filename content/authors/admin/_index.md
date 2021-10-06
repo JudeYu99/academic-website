@@ -40,7 +40,7 @@ social:
   icon_pack: fas
   link: 'yzhu99@stu.suda.edu.cn'
 
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://www.researchgate.net/profile/Yu_Zhu131
   
