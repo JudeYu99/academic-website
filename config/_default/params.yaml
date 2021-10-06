@@ -28,9 +28,7 @@ address:
   postcode: '215000'
   country: China
 
-directions: 
-  - name: Department of Bioinformatics, School of Biology and Basic Medical Sciences
-    link: 'http://jysw.suda.edu.cn/'
+directions: Department of Bioinformatics, School of Biology and Basic Medical Sciences
 
 # directions: Center for Systems Biology
 
