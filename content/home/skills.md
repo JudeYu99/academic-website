@@ -16,18 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: Commonly Used Programming Language
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: Commonly Used Programming Language
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+
+- description: Commonly Used Operating System
+  icon: server
+  icon_pack: fab
+  name: Linux Server
+- description: Establishment of Biological DB
+  icon: database
+  icon_pack: fab
+  name: Database
+
+- description: Bioinformatics Analysis
+  icon: dna
+  icon_pack: fab
+  name: Genome & Transcriptome & Proteome Informatics
+
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
