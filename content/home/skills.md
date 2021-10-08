@@ -27,18 +27,22 @@ feature:
 
 - description: Commonly Used Operating System
   icon: server
-  icon_pack: fab
+  icon_pack: fas
   name: Linux Server
 - description: Establishment of Biological DB
   icon: database
-  icon_pack: fab
+  icon_pack: fas
   name: Database
 
 - description: Bioinformatics Analysis
   icon: dna
-  icon_pack: fab
+  icon_pack: fas
   name: Genome & Transcriptome & Proteome Informatics
 
+- description: Algorithms related with biological data processing, network topology, machine learning ...
+  icon: bezier-curve
+  icon_pack: fas
+  name: Bioinformatics Algorithms
 
 
 # Uncomment to use emoji icons.
