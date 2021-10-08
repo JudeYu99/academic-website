@@ -42,7 +42,7 @@ summary: Allosteric drug design targeting DNMT1 Protein-Protein Interactions (PP
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+# featured: true
 
 url_pdf: ''
 url_code: ''

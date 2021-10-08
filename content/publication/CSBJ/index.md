@@ -39,7 +39,7 @@ summary: Highlights in the publication: 1)Dynamics and allosteric potentials of 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+# featured: true
 
 url_pdf: ''
 url_code: ''
