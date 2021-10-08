@@ -16,30 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Commonly Used Programming Language
+- description: Commonly used programming language
   icon: python
   icon_pack: fab
   name: Python
-- description: Commonly Used Programming Language
+- description: Commonly used programming language
   icon: r-project
   icon_pack: fab
   name: R
 
-- description: Commonly Used Operating System
+- description: Commonly used operating system
   icon: server
   icon_pack: fas
   name: Linux Server
-- description: Establishment of Biological DB
+- description: Establishment of biological database
   icon: database
   icon_pack: fas
   name: Database
 
-- description: Bioinformatics Analysis
+- description: Multi-scale bioinformatics analysis
   icon: dna
   icon_pack: fas
   name: Genome & Transcriptome & Proteome Informatics
 
-- description: Algorithms related with biological data processing, network topology, machine learning ...
+- description: Algorithms related to biological data processing, network topology, machine learning ...
   icon: bezier-curve
   icon_pack: fas
   name: Bioinformatics Algorithms
