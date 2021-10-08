@@ -23,6 +23,8 @@ interests:
 - Systems Biology
 - Biological Network
 - Proteome Informatics
+- Allostery Drug Design
+- Database
 
 # Education to show in About widget
 education:
@@ -63,6 +65,8 @@ email: ""
 highlight_name: true
 ---
 
-Yu Zhu is a senior undergraduate student majoring in Bioinformatics at Soochow University, China.
+Yu Zhu is an undergraduate student majoring in Bioinformatics at Soochow University (PRC) since 2018. 
+Under the guidance of Prof. Guang Hu and Prof. Zhongjie Liang, he is now focusing on how to integrate bioinformatics and biophysics methods to mine protein dynamics data, and how to use structural information for the construction of protein-protein interaction networks. Also, supervised by Prof. Bairong Shen at Frontiers Science Center for Disease-related Molecular Network, Sichuan University, he stablished the risk factors database for neurodegenerative diseases (NDDRF) together with other group members.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}Personal CV{{< /staticref >}}.
