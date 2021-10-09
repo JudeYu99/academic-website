@@ -49,21 +49,7 @@ experience:
         * Obtain the NSCLC-related disease network module from the pre-omics analysis
         * Carry out research in five aspects, including functional enrichment analysis, structural modeling of protein interactions, mapping of mutation and post-translational modification information and druggability based on drug pockets
         * Verify the pathogenic function of the NSCLC network module at the two levels of pathway and structure
-
-  - title: Structural and Functional Analysis of Non-Small Cell Lung Cancer Disease Modules
-    company: Center for Systems Biology, Department of Bioinformatics, School of Biology and Basic Medical Sciences, Soochow University
-    company_url: 'http://jysw.suda.edu.cn/'
-    company_logo: 
-    location: Suzhou, China
-    date_start: '2019-10-01'
-    date_end: '2020-10-01'
-    description: |2-
-        Responsibilities include:
-        
-        * Obtain the NSCLC-related disease network module from the pre-omics analysis
-        * Carry out research in five aspects, including functional enrichment analysis, structural modeling of protein interactions, mapping of mutation and post-translational modification information and druggability based on drug pockets
-        * Verify the pathogenic function of the NSCLC network module at the two levels of pathway and structure
-        
+       
   - title: Medical Research on Glycobiology, Glycomics and Glycobioinformatics
     company: Frontiers Science Center for Disease-related Molecular Network, Sichuan University, Chengdu, China
     company_url: 'http://fscdrmn.wchscu.cn/'
@@ -88,7 +74,7 @@ experience:
         Responsibilities include:
         
         * Learn about the application of bioinformatics-related tools and database, and the data processing method of Multi-Omics analysis
-        * Join Prof. Shen Bairong’s research group, and took charge of data mining and cleaning for more than ten neurodegenerative diseases
+        * Join Prof. Shen Bairong’s research group, and take charge of data mining and cleaning for more than ten neurodegenerative diseases
         * Establish the risk factors database for neurodegenerative diseases ([NDDRF](http://sysbio.org.cn/NDDRF/index.html)) together with other group members
         * Follow up with the latest research progress in bioinformatics, and participate in academic conferences
 
