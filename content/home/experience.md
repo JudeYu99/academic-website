@@ -63,7 +63,7 @@ experience:
         * Sort out the subject development process of glycomics, glycobiology, and glycobioinformatics, and learned about the forefront progress of the subject.
         * Participate in several summit forums discussing frontier science in bioinformatics
 
-  - title: Construction of Knowledgebase of Risk Factors for Neurodegenerative Diseases([NDDRF Knowledgebase](http://sysbio.org.cn/NDDRF/index.html))
+  - title: Construction of Knowledgebase of Risk Factors for Neurodegenerative Diseases
     company: Institutes for Systems Genetics, West China Hospital, Sichuan University, Chengdu, China
     company_url: 'http://www.sysbio.org.cn/index.php'
     company_logo: 
