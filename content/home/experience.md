@@ -30,7 +30,7 @@ experience:
     date_start: '2020-05-01'
     date_end: ''
     description: |2-
-        Supervised by: Prof. Guang Hu and Prof. Zhongjie Liang
+        Supervised by: Prof. **Guang Hu** and Prof. **Zhongjie Liang**
 
         Responsibilities include:
         
@@ -46,6 +46,8 @@ experience:
     date_start: '2019-10-01'
     date_end: '2020-10-01'
     description: |2-
+        Supervised by: Prof. **Guang Hu** and Prof. **Zhongjie Liang**
+
         Responsibilities include:
         
         * Obtain the NSCLC-related disease network module from the pre-omics analysis
@@ -60,6 +62,8 @@ experience:
     date_start: '2020-07-01'
     date_end: '2020-08-31'
     description: |2-
+        Supervised by: Prof. **Bairong Shen**
+
         Responsibilities include:
 
         * Sort out the subject development process of glycomics, glycobiology, and glycobioinformatics, and learned about the forefront progress of the subject.
@@ -73,6 +77,8 @@ experience:
     date_start: '2019-07-01'
     date_end: '2019-08-31'
     description: |2-
+        Supervised by: Prof. **Bairong Shen**
+
         Responsibilities include:
         
         * Learn about the application of bioinformatics-related tools and database, and the data processing method of Multi-Omics analysis
