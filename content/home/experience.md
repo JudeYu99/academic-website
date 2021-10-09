@@ -38,7 +38,7 @@ experience:
         * Predict the allosteric site and allosteric path of the complex based on perturbation response scanning (PRS) analysis
         * Explore pocket information in the trajectory of DNMTs, evaluate their targetability, and determine potential allosteric sites combining mutation information
 
-  - title: Structural and Functional Analysis of Non-Small Cell Lung Cancer Disease Modules
+  - title: Structural and Functional Analysis of Non-Small Cell Lung Cancer (NSCLC) Disease Modules
     company: Center for Systems Biology, Department of Bioinformatics, School of Biology and Basic Medical Sciences, Soochow University
     company_url: 'http://jysw.suda.edu.cn/'
     company_logo: 
