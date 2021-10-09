@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Research Experiences
 subtitle:
 
 # Date format for experience
@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company: Center for Systems Biology, Department of Bioinformatics, School of Biology and Basic Medical Sciences, Soochow University
+    company_url: 'http://jysw.suda.edu.cn/'
+    company_logo: 
+    location: Suzhou, China
+    date_start: '2018-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -39,7 +39,7 @@ experience:
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
