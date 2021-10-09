@@ -34,7 +34,7 @@ experience:
         
         * Construct the biological network of the complex, and develope indicators that quantitatively characterize the characteristics of the mutant residues
         * Predict the allosteric site and allosteric path of the complex based on perturbation response scanning (PRS) analysis
-        * Explore pocket information in the trajectory of DNMTs, evaluate their targetability, and determine potential allosteric sites combining mutation information.
+        * Explore pocket information in the trajectory of DNMTs, evaluate their targetability, and determine potential allosteric sites combining mutation information
 
   - title: Structural and Functional Analysis of Non-Small Cell Lung Cancer Disease Modules
     company: Center for Systems Biology, Department of Bioinformatics, School of Biology and Basic Medical Sciences, Soochow University
@@ -63,7 +63,7 @@ experience:
         * Sort out the subject development process of glycomics, glycobiology, and glycobioinformatics, and learned about the forefront progress of the subject.
         * Participate in several summit forums discussing frontier science in bioinformatics
 
-  - title: Construction of Knowledgebase of Risk Factors for Neurodegenerative Diseases
+  - title: Construction of Risk Factors Knowledgebase for Neurodegenerative Diseases
     company: Institutes for Systems Genetics, West China Hospital, Sichuan University, Chengdu, China
     company_url: 'http://www.sysbio.org.cn/index.php'
     company_logo: 
