@@ -25,7 +25,7 @@ experience:
   - title: Allosteric Drug Design Targeting DNMT1 Protein-Protein Interactions (PPIs) 
     company: Center for Systems Biology, Department of Bioinformatics, School of Biology and Basic Medical Sciences, Soochow University
     company_url: 'http://jysw.suda.edu.cn/'
-    company_logo: images/suzhou_Jysw.png
+    company_logo: suzhou_Jysw
     location: Suzhou, China
     date_start: '2020-05-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Structural and Functional Analysis of Non-Small Cell Lung Cancer Disease Modules
     company: Center for Systems Biology, Department of Bioinformatics, School of Biology and Basic Medical Sciences, Soochow University
     company_url: 'http://jysw.suda.edu.cn/'
-    company_logo: images/suzhou_Jysw.png
+    company_logo: suzhou_Jysw
     location: Suzhou, China
     date_start: '2019-10-01'
     date_end: '2020-10-01'
