@@ -30,6 +30,8 @@ experience:
     date_start: '2020-05-01'
     date_end: ''
     description: |2-
+        Supervised by: Prof. Guang Hu and Prof. Zhongjie Liang
+
         Responsibilities include:
         
         * Construct the biological network of the complex, and develope indicators that quantitatively characterize the characteristics of the mutant residues
