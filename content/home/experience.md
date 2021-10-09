@@ -71,10 +71,11 @@ experience:
     location: Chengdu, China
     date_start: '2020-07-01'
     date_end: '2020-08-31'
-    description: 
+    description: |2-
+        Responsibilities include:
 
-    * Sort out the subject development process of glycomics, glycobiology, and glycobioinformatics, and learned about the forefront progress of the subject.
-    * Participate in several summit forums discussing frontier science in bioinformatics
+        * Sort out the subject development process of glycomics, glycobiology, and glycobioinformatics, and learned about the forefront progress of the subject.
+        * Participate in several summit forums discussing frontier science in bioinformatics
 
   - title: Construction of [NDDRF Knowledgebase](http://sysbio.org.cn/NDDRF/index.html): A Knowledgebase of Risk Factors for Neurodegenerative Diseases
     company: Institutes for Systems Genetics, West China Hospital, Sichuan University, Chengdu, China
