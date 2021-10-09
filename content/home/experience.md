@@ -51,7 +51,7 @@ experience:
         * Verify the pathogenic function of the NSCLC network module at the two levels of pathway and structure
        
   - title: Medical Research on Glycobiology, Glycomics and Glycobioinformatics
-    company: Frontiers Science Center for Disease-related Molecular Network, Sichuan University, Chengdu, China
+    company: Institutes for Systems Genetics, Frontiers Science Center for Disease-related Molecular Network, Sichuan University, Chengdu, China
     company_url: 'http://fscdrmn.wchscu.cn/'
     company_logo: 
     location: Chengdu, China
