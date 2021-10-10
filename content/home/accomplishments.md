@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Awards'
+title: 'Honors and Awards'
 subtitle:
 
 # Date format
@@ -38,7 +38,7 @@ item:
   date_end: "2020-12-31"
   date_start: "2020-01-01"
   organization: Soochow University, Medical College of Soochow University
-  organization_url: http://www.suda.edu.cn/, http://medical.suda.edu.cn/
+  organization_url: http://www.suda.edu.cn/
   title: Year 2020
   url: ""
   description: |2-
