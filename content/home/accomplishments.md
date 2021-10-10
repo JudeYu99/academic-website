@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2021"
+  date_start: ""
   organization: Soochow University
   organization_url: http://www.suda.edu.cn/
   title: Year 2021
@@ -36,7 +36,7 @@ item:
 
 - certificate_url: 
   date_end: ""
-  date_start: "2020"
+  date_start: ""
   organization: Soochow University, Medical College of Soochow University
   organization_url: http://www.suda.edu.cn/
   title: Year 2020
@@ -50,7 +50,7 @@ item:
 
 - certificate_url: 
   date_end: ""
-  date_start: "2019"
+  date_start: ""
   organization: Soochow University
   organization_url: http://www.suda.edu.cn/
   title: Year 2019
