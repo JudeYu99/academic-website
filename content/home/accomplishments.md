@@ -25,30 +25,43 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2021"
+  organization: Soochow University
+  organization_url: http://www.suda.edu.cn/
+  title: Year 2021
   url: ""
-  description: hahahaha
+  description: |2-
+    * The Second Prize in the First “Zhaoyin” Cup Financial Mathematical Modeling Competition
+    * The Third Prize for Band C in  2021 National English Competition for College Students 
 
 - certificate_url: 
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  date_start: "2020"
+  organization: Soochow University, Medical College of Soochow University
+  organization_url: http://www.suda.edu.cn/, http://medical.suda.edu.cn/
+  title: Year 2020
   url: ""
+  description: |2-
+    * The First Prize Scholarship for Academic Excellence
+    * Comprehensive Scholarship
+    * The Special Scholarship for Innovation and Entrepreneurship
+    * Merit Student
+    * Scientific and Technological Innovation Star of Medical College
+
+- certificate_url: 
+  date_end: ""
+  date_start: "2019"
+  organization: Soochow University
+  organization_url: http://www.suda.edu.cn/
+  title: Year 2019
+  url: ""
+  description: |2-
+    * The First Prize for Academic Excellence
+    * Comprehensive Prize
+    * Merit Student
+    * Special Prize for Spiritual Civilization
+    * Excellent Volunteer Team
+    * Excellent Summer Social Practice Team
 
 design:
   columns: '2' 
