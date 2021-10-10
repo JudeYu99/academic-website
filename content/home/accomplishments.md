@@ -38,7 +38,7 @@ item:
   date_end: ""
   date_start: "2020"
   organization: Soochow University, Medical College of Soochow University
-  organization_url: http://www.suda.edu.cn/, http://medical.suda.edu.cn/
+  organization_url: http://www.suda.edu.cn/
   title: Year 2020
   url: ""
   description: |2-
