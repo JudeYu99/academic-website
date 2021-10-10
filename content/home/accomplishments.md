@@ -35,10 +35,10 @@ item:
     * The Third Prize for Band C in 2021 National English Competition for College Students 
 
 - certificate_url: 
-  date_end: ""
+  date_end: "2020-12-31"
   date_start: "2020-01-01"
   organization: Soochow University, Medical College of Soochow University
-  organization_url: http://www.suda.edu.cn/
+  organization_url: http://www.suda.edu.cn/, http://medical.suda.edu.cn/
   title: Year 2020
   url: ""
   description: |2-
@@ -49,7 +49,7 @@ item:
     * Scientific and Technological Innovation Star of Medical College
 
 - certificate_url: 
-  date_end: ""
+  date_end: "2019-12-31"
   date_start: "2019-01-01"
   organization: Soochow University
   organization_url: http://www.suda.edu.cn/
