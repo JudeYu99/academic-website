@@ -69,7 +69,7 @@ experience:
         * Sort out the subject development process of glycomics, glycobiology, and glycobioinformatics, and learned about the forefront progress of the subject.
         * Participate in several summit forums discussing frontier science in bioinformatics
 
-  - title: Construction of Risk Factors Knowledgebase for Neurodegenerative Diseases
+  - title: Construction of Risk Factors Knowledgebase for Neurodegenerative Diseases (NDDRF knowledgebase)
     company: Institutes for Systems Genetics, West China Hospital, Sichuan University, Chengdu, China
     company_url: 'http://www.sysbio.org.cn/index.php'
     company_logo: 
@@ -81,7 +81,7 @@ experience:
 
         Responsibilities include:
         
-        * Learn about the application of bioinformatics-related tools and database, and the data processing method of Multi-Omics analysis
+        * Learn about the application of bioinformatics-related tools and database, and the data processing method of multi-omics analysis
         * Join Prof. Shen Bairong’s research group, and take charge of data mining and cleaning for more than ten neurodegenerative diseases
         * Establish the risk factors database for neurodegenerative diseases ([NDDRF](http://sysbio.org.cn/NDDRF/index.html)) together with other group members
         * Follow up with the latest research progress in bioinformatics, and participate in academic conferences
