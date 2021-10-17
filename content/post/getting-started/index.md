@@ -1,6 +1,6 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Evolution of New Genes
+subtitle: Notes
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ""
   focal_point: ""
   placement: 2
   preview_only: false
@@ -31,74 +31,96 @@ image:
 authors:
 - admin
 
-tags:
-- Academic
-- 开源
-
 categories:
-- Demo
-- 教程
+- Bioinformatics
+- Evolution
 ---
+
+
 
 ## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+1. Origin of new genes
+2. Evolution of essential genes and development
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+{{< figure src="tree.png" title="Evolutionary tree showing the divergence of modern species from their common ancestor in the centre. The three domains are coloured, with bacteria blue, archaea green and eukaryotes red." >}}
 
+
+
+## New Genes Definition & Influence on Evolution of Species
+
+- Defined by **Prof. Manyuan Long**, there are two aspects of the definition of new genes:
+
+1.	First, it refers to those genes produced at a relatively recent stage in the evolutionary process, these newly produced genes are new genes. By relatively recent stages in the evolutionary process which usually refers to 50,000 years ago, 100,000 years ago, one million years ago, etc., they are very short time scales. 
+2.	The second aspect is relative to those very old genes, such as those genes that control translation or transcription which could be produced one hundred million years ago. Those genes have multiplied themselves and can generate new copies. These copies, relative to old genes, are new genes. 
+
+- The significance of their evolution is also that the gene is the genetic basis that controls the evolution of the life. So, because of the production of new genes, it’s the same as changing the information of the genetic basis of the controlling organism. As such, it has extraordinary evolutionary meaning.
 ## Get Started
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
+- The birth and death of genes are generally important process in evolution and biology.
+- Difference in the concept of new gene made from the traditional theory of molecular biology and evolution
+1.	The classic model of "mutation come and go".		-- _Hermann Muller_
+2.	Important genes must be functionally conserved.		-- _Francois Jacob and Ernest Mayr_
+3.	Applied to development: Genetic basis of development is conserved.		-- _Sean Carroll (2004) and Stephen J Gould (2003)_
 
-## Crowd-funded open-source software
+- New genes
+1.	The genes evolve as morphology and phenotypes do.
+2.	The new gene drive evolution of genetic basis underlying morphology and phenotypes. (e.g. developmental process and reproductive process)
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
+## Theory of Ancient Origination of Essential Functions
 
-## Ecosystem
+-	-- _Francois Jacob, 1977. Evolution and tinkering. Science: 196: 1161-1166_
 
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+Novelties come from previously unseen association of old material. To create is to recombine. Evolution does not produce novelties from scratch.
 
-## Inspiration
+The really creative part in biochemistry must have occurred very early. But it is not biochemical novelties that generated diversification of organisms.
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
+- It is impossible for nature to produce brand new genes.
+- The most important part of biochemistry has been formed at the early stage of the origin of life. Nowadays, it is impossible for nature to produce important new biochemical functions.
+- "Essential genes are not organism specific, nor are their functions protected by gene duplication." –- _Michael Ashburner et al, 1999. Genetics_
 
-## Features
 
-- **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
 
-## Themes
+## Focus on New Genes
 
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+- Nature -- _How evolution builds genes from scratch_
+	Focused news feature article reported and discussed **new gene evolution research**.
+- Science -- _New Genes in Drosophila Quickly Become Essential_
+	New genes produce essential functions as well as old ones.
+- Elife -- _Innovation of heterochromatin functions drives rapid evolution of essential ZAD-ZNF genes in Drosophila_
+- _Frequent Recent Origination of Essential Genes in Drosophila_
+	-> Sexual Conflict Paradox in New Gene Evolution: A new gene cannot simultaneously meet the needs of male and female: when it favors male, it hurts female; when it favors female, it hurts male. 
 
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
 
-## License
+## Imperfect Features of Genes & Impacts of Human Society
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+Up till now, Long et al. have observed that
+1.	First, genes that concern sexual differentiation and evolution produced by new genes are often imperfect in its functions. This means that is has a more beneficial function for one sex, often at the expense of the functional significance of the other sex. This is the first type of imperfection.
+2.	The second type is one people have found in the maternal line. For example, the genes of the mitochondria and the gene from the nucleus of the paternal line often do not match perfectly, creating descendants with a proper performance than both their parents. Furthermore, we suspect it is very likely that they have an impact on human behavior, also creating imperfection in this respect. So, in this sense, they influence our most general perception of human behavior, and even some medical considerations.
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+
+
+## Inspiration and Outstretch
+
+- New genes and new functional mutant genes belong to the new functional genetic information that is constantly generated during the dynamic evolution of the genome.
+- Dr. Jianhai Chen summarized the relationship between evolution and biology as following:
+Biology is a sub-discipline of evolutionary science. Many people think that evolutionary science is a branch of biology, but I am afraid the opposite is true. Evolution covers a much broader range, obviously. Organisms that do not conform to the laws of evolution do not exist, or have been eliminated or are about to be eliminated. Neither does an environment that does not conform to the laws of biological origin. With the idea of evolution, many questions can be thought through more thoroughly.
+- Identification of the origin of new genes
+	It is currently believed that there are at least 12 structural evolution patterns for new genes:
+	1.	Reverse transcription (RNA originated novel genes);
+	2.	Exon shuffling, DNA duplication, gene fusion, frameshift mutation, alternative splicing, non-coding RNA mutation, pseudogene RNA regulator (DNA originated novel genes)；
+	3.	De Novo new genes, etc.
+
+
+
+### Reference
+1.	Emerson, J. J., Kaessmann, H., Betrán, E., & Long, M. (2004). Extensive gene traffic on the mammalian X chromosome. Science (New York, N.Y.), 303(5657), 537–540.
+2.	Chen, S., Zhang, Y. E., & Long, M. (2010). New genes in Drosophila quickly become essential. Science (New York, N.Y.), 330(6011), 1682–1685. 
+3.	Long, M., VanKuren, N. W., Chen, S., & Vibranovski, M. D. (2013). New gene evolution: little did we know. Annual review of genetics, 47, 307–333. 
+4.	Parker, H. G., VonHoldt, B. M., Quignon, P., Margulies, E. H., Shao, S., Mosher, D. S., Spady, T. C., Elkahloun, A., Cargill, M., Jones, P. G., Maslen, C. L., Acland, G. M., Sutter, N. B., Kuroki, K., Bustamante, C. D., Wayne, R. K., & Ostrander, E. A. (2009). An expressed fgf4 retrogene is associated with breed-defining chondrodysplasia in domestic dogs. Science (New York, N.Y.), 325(5943), 995–998. 
+5.	Zhang, L., Ren, Y., Yang, T., Li, G., Chen, J., Gschwend, A. R., Yu, Y., Hou, G., Zi, J., Zhou, R., Wen, B., Zhang, J., Chougule, K., Wang, M., Copetti, D., Peng, Z., Zhang, C., Zhang, Y., Ouyang, Y., Wing, R. A., … Long, M. (2019). Rapid evolution of protein diversity by de novo origination in Oryza. Nature ecology & evolution, 3(4), 679–690. 
+6.	Kasinathan, B., Colmenares, S. U., 3rd, McConnell, H., Young, J. M., Karpen, G. H., & Malik, H. S. (2020). Innovation of heterochromatin functions drives rapid evolution of essential ZAD-ZNF genes in Drosophila. eLife, 9, e63368.
+
+Related materials can be found on [Berggruen Seminar Series: Imperfect Genes: Human Evolution with the Origin of New Genes](https://www.berggruen.org/activity/berggruen-seminar-series-imperfect-genes-human-evolution-with-the-origin-of-new-genes/)
