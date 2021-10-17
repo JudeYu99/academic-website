@@ -3,7 +3,7 @@ title: Evolution of New Genes
 subtitle: Notes in _Imperfect Genes: Human Evolution with the Origin of New Genes_ talk delivered by **Manyuan Long, Ph.D.**, Edna K. Papazian Distinguished Service Professor of Ecology and Evolution at the University of Chicago.
 
 # Summary for listings and search engines
-summary: 
+summary: Challenge Dogmas: Evolution of Essential Genes and Development
 
 # Link this post with a project
 projects: []
