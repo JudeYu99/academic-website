@@ -24,9 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
-  date_end: ""
+  date_end: "2021-12-31"
   date_start: "2021-01-01"
-  date_start: "2021-12-31"
   organization: Soochow University
   organization_url: http://www.suda.edu.cn/
   title: Year 2021
