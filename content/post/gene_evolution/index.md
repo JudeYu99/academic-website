@@ -3,7 +3,7 @@ title: Evolution of New Genes
 subtitle: Challenge Dogmas – Evolution of Essential Genes and Development
 
 # Summary for listings and search engines
-summary: Notes in _Human Evolution with the Origin of New Genes_ series reports delivered by **Manyuan Long, Ph.D.**, Edna K. Papazian Distinguished Service Professor of Ecology and Evolution.
+summary: Notes in _Human Evolution with the Origin of New Genes_ series reports delivered by **Manyuan Long, Ph.D.**, Edna K Papazian Distinguished Service Professor, The University of Chicago.
 
 # Link this post with a project
 projects: []
@@ -49,7 +49,7 @@ categories:
 
 ## New Genes Definition & Influence on Evolution of Species
 
-- Defined by **Prof. Manyuan Long**, there are two aspects of the definition of new genes:
+- Defined by Prof. **Manyuan Long**, there are two aspects of the definition of new genes:
 
 	1.	First, it refers to those genes produced at a relatively recent stage in the evolutionary process, these newly produced genes are new genes. By relatively recent stages in the evolutionary process which usually refers to 50,000 years ago, 100,000 years ago, one million years ago, etc., they are very short time scales. 
 	2.	The second aspect is relative to those very old genes, such as those genes that control translation or transcription which could be produced one hundred million years ago. Those genes have multiplied themselves and can generate new copies. These copies, relative to old genes, are new genes. 
