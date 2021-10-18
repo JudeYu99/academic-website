@@ -1,9 +1,9 @@
 ---
 title: Evolution of New Genes
-subtitle: Challenge Dogmas –- Evolution of Essential Genes and Development
+subtitle: Challenge Dogmas – Evolution of Essential Genes and Development
 
 # Summary for listings and search engines
-summary: Notes in _Imperfect Genes -- Human Evolution with the Origin of New Genes_ report delivered by **Manyuan Long, Ph.D.**, Edna K. Papazian Distinguished Service Professor of Ecology and Evolution at the University of Chicago.
+summary: Notes in _Human Evolution with the Origin of New Genes_ series report delivered by **Manyuan Long, Ph.D.**, Edna K. Papazian Distinguished Service Professor of Ecology and Evolution at the University of Chicago.
 
 # Link this post with a project
 projects: []
@@ -73,9 +73,9 @@ categories:
 
 -	-- _Francois Jacob, 1977. Evolution and tinkering. Science: 196: 1161-1166_
 
-1.	Novelties come from previously unseen association of old material. To create is to recombine. Evolution does not produce novelties from scratch.
+	1.	Novelties come from previously unseen association of old material. To create is to recombine. Evolution does not produce novelties from scratch.
 
-2.	The really creative part in biochemistry must have occurred very early. But it is not biochemical novelties that generated diversification of organisms.
+	2.	The really creative part in biochemistry must have occurred very early. But it is not biochemical novelties that generated diversification of organisms.
 
 - It is impossible for nature to produce brand new genes.
 - The most important part of biochemistry has been formed at the early stage of the origin of life. Nowadays, it is impossible for nature to produce important new biochemical functions.
@@ -91,14 +91,15 @@ categories:
 	New genes produce essential functions as well as old ones.
 - Elife -- _Innovation of heterochromatin functions drives rapid evolution of essential ZAD-ZNF genes in Drosophila_
 - _Frequent Recent Origination of Essential Genes in Drosophila_  
-	-> Sexual Conflict Paradox in New Gene Evolution: A new gene cannot simultaneously meet the needs of male and female; when it favors male, it hurts female; when it favors female, it hurts male. 
+	-> Sexual Conflict Paradox in New Gene Evolution:   
+	A new gene cannot simultaneously meet the needs of male and female; when it favors male, it hurts female; when it favors female, it hurts male. 
 
 
 ## Imperfect Features of Genes & Impacts of Human Society
 
 Up till now, Long et al. have observed that
 1.	First, genes that concern sexual differentiation and evolution produced by new genes are often imperfect in its functions. This means that is has a more beneficial function for one sex, often at the expense of the functional significance of the other sex. This is the first type of imperfection.
-2.	The second type is one people have found in the maternal line. For example, the genes of the mitochondria and the gene from the nucleus of the paternal line often do not match perfectly, creating descendants with a proper performance than both their parents. Furthermore, they suspect it is very likely that they have an impact on human behavior, also creating imperfection in this respect. So, in this sense, they influence our most general perception of human behavior, and even some medical considerations.
+2.	The second type is one people have found in the maternal line. For example, the genes of the mitochondria and the gene from the nucleus of the paternal line often do not match perfectly, creating descendants with a proper performance than both their parents. Furthermore, they suspect it is very likely that these genes have an impact on human behavior, also creating imperfection in this respect. So, in this sense, genes influence our most general perception of human behavior, and even some medical considerations.
 
 
 
@@ -106,7 +107,7 @@ Up till now, Long et al. have observed that
 
 - New genes and new functional mutant genes belong to the new functional genetic information that is constantly generated during the dynamic evolution of the genome.
 - Dr. Jianhai Chen summarized the relationship between evolution and biology as following:  
-Biology is a sub-discipline of evolutionary science. Many people think that evolutionary science is a branch of biology, but I am afraid the opposite is true. Evolution covers a much broader range, obviously. Organisms that do not conform to the laws of evolution do not exist, or have been eliminated or are about to be eliminated. Neither does an environment that does not conform to the laws of biological origin. With the idea of evolution, many questions can be thought through more thoroughly.
+Biology is a sub-discipline of evolutionary science. Many people think that evolutionary science is a branch of biology, but the truth seems to be the opposite one. Evolution covers a much broader range, obviously. Organisms that do not conform to the laws of evolution do not exist, or have been eliminated or are about to be eliminated. Neither does an environment that does not conform to the laws of biological origin. With the idea of evolution, many questions can be thought through more thoroughly.
 - Identification of the origin of new genes.  
 	It is currently believed that there are at least 12 structural evolution patterns for new genes:
 	1.	Reverse transcription (RNA originated novel genes);
