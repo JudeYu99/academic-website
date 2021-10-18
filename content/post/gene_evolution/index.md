@@ -3,7 +3,7 @@ title: Evolution of New Genes
 subtitle: Challenge Dogmas – Evolution of Essential Genes and Development
 
 # Summary for listings and search engines
-summary: Notes in _Human Evolution with the Origin of New Genes_ series report delivered by **Manyuan Long, Ph.D.**, Edna K. Papazian Distinguished Service Professor of Ecology and Evolution at the University of Chicago.
+summary: Notes in _Human Evolution with the Origin of New Genes_ series reports delivered by **Manyuan Long, Ph.D.**, Edna K. Papazian Distinguished Service Professor of Ecology and Evolution.
 
 # Link this post with a project
 projects: []
