@@ -117,11 +117,11 @@ Biology is a sub-discipline of evolutionary science. Many people think that evol
 
 
 ### Reference
-1.	Emerson, J. J., Kaessmann, H., Betrán, E., & Long, M. (2004). Extensive gene traffic on the mammalian X chromosome. Science (New York, N.Y.), 303(5657), 537–540.
-2.	Chen, S., Zhang, Y. E., & Long, M. (2010). New genes in Drosophila quickly become essential. Science (New York, N.Y.), 330(6011), 1682–1685. 
-3.	Long, M., VanKuren, N. W., Chen, S., & Vibranovski, M. D. (2013). New gene evolution: little did we know. Annual review of genetics, 47, 307–333. 
-4.	Parker, H. G., VonHoldt, B. M., Quignon, P., Margulies, E. H., Shao, S., Mosher, D. S., Spady, T. C., Elkahloun, A., Cargill, M., Jones, P. G., Maslen, C. L., Acland, G. M., Sutter, N. B., Kuroki, K., Bustamante, C. D., Wayne, R. K., & Ostrander, E. A. (2009). An expressed fgf4 retrogene is associated with breed-defining chondrodysplasia in domestic dogs. Science (New York, N.Y.), 325(5943), 995–998. 
-5.	Zhang, L., Ren, Y., Yang, T., Li, G., Chen, J., Gschwend, A. R., Yu, Y., Hou, G., Zi, J., Zhou, R., Wen, B., Zhang, J., Chougule, K., Wang, M., Copetti, D., Peng, Z., Zhang, C., Zhang, Y., Ouyang, Y., Wing, R. A., … Long, M. (2019). Rapid evolution of protein diversity by de novo origination in Oryza. Nature ecology & evolution, 3(4), 679–690. 
-6.	Kasinathan, B., Colmenares, S. U., 3rd, McConnell, H., Young, J. M., Karpen, G. H., & Malik, H. S. (2020). Innovation of heterochromatin functions drives rapid evolution of essential ZAD-ZNF genes in Drosophila. eLife, 9, e63368.
+1.	_Emerson, J. J., Kaessmann, H., Betrán, E., & Long, M. (2004). Extensive gene traffic on the mammalian X chromosome. Science (New York, N.Y.), 303(5657), 537–540._
+2.	_Chen, S., Zhang, Y. E., & Long, M. (2010). New genes in Drosophila quickly become essential. Science (New York, N.Y.), 330(6011), 1682–1685._
+3.	_Long, M., VanKuren, N. W., Chen, S., & Vibranovski, M. D. (2013). New gene evolution: little did we know. Annual review of genetics, 47, 307–333._
+4.	_Parker, H. G., VonHoldt, B. M., Quignon, P., Margulies, E. H., Shao, S., Mosher, D. S., Spady, T. C., Elkahloun, A., Cargill, M., Jones, P. G., Maslen, C. L., Acland, G. M., Sutter, N. B., Kuroki, K., Bustamante, C. D., Wayne, R. K., & Ostrander, E. A. (2009). An expressed fgf4 retrogene is associated with breed-defining chondrodysplasia in domestic dogs. Science (New York, N.Y.), 325(5943), 995–998._
+5.	_Zhang, L., Ren, Y., Yang, T., Li, G., Chen, J., Gschwend, A. R., Yu, Y., Hou, G., Zi, J., Zhou, R., Wen, B., Zhang, J., Chougule, K., Wang, M., Copetti, D., Peng, Z., Zhang, C., Zhang, Y., Ouyang, Y., Wing, R. A., … Long, M. (2019). Rapid evolution of protein diversity by de novo origination in Oryza. Nature ecology & evolution, 3(4), 679–690._
+6.	_Kasinathan, B., Colmenares, S. U., 3rd, McConnell, H., Young, J. M., Karpen, G. H., & Malik, H. S. (2020). Innovation of heterochromatin functions drives rapid evolution of essential ZAD-ZNF genes in Drosophila. eLife, 9, e63368._
 
 Related materials can be found on Berggruen Seminar Series: [Imperfect Genes: Human Evolution with the Origin of New Genes](https://www.berggruen.org/activity/berggruen-seminar-series-imperfect-genes-human-evolution-with-the-origin-of-new-genes/).
