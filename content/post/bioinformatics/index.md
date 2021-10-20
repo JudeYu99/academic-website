@@ -45,7 +45,7 @@ New research ideas in the field of modern life sciences:
 3.	Use informatics to process data
 4.	Look at the problem from the perspective of systems biology
 
-Recommendation reading by Xiaole Shirley Liu: [Levels of Bioinformatics Research](http://www.longwoodgenomics.org/2014/10/11/levels-of-bioinformatics-research/).
+Recommendation reading about bioinformatics by Xiaole Shirley Liu: [Levels of Bioinformatics Research](http://www.longwoodgenomics.org/2014/10/11/levels-of-bioinformatics-research/).
 
 {{< figure src="Bioinformatics.png" title="Bioinformatics / Computational & Systems Biology" >}}
 
