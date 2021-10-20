@@ -45,29 +45,29 @@ New research ideas in the field of modern life sciences:
 3.	Use informatics to process data
 4.	Look at the problem from the perspective of systems biology
 
-Recommendation reading by Xiaole Shirley Liu: [Levels of Bioinformatics Research](http://www.longwoodgenomics.org/2014/10/11/levels-of-bioinformatics-research/)
+Recommendation reading by Xiaole Shirley Liu: [Levels of Bioinformatics Research](http://www.longwoodgenomics.org/2014/10/11/levels-of-bioinformatics-research/).
 
 {{< figure src="Bioinformatics.png" title="Bioinformatics / Computational & Systems Biology" >}}
 
-
+  
 ## Difference between computational biology and bioinformatics
 	(*) In most conditions, it's not necessary to distinguish this two terms.
 
 
-### Computational Biology
+#### Computational Biology
 	* The study of biology using computational techniques.
 	* The goal is to learn new biology, knowledge about living systems.
 	* It is about science.
 
 
-### Bioinformatics
+#### Bioinformatics
 	* The creation of tools (algorithms, databases) that solve problems.
 	* The goal is to build useful tools that work on biological data.
 	* It is about engineering.
 
 
 
-
+  
 ## Topics in Computational Biology/ Bioinformatics
 
 - Sequence analysis
@@ -104,21 +104,21 @@ Recommendation reading by Xiaole Shirley Liu: [Levels of Bioinformatics Research
 
 "A few months ago, I compared the project to the invention of the wheel. On reflection, it is more than that. I can well imagine technology making the wheel obsolete. But this code is the essence of mankind, and as long as humans exists, this code is going to be important and will be used."  
 
-_-- Dr Michael Dexter_
+_-- Dr Michael Dexter_  
 Director of the Wellcome Trust
 
 
-
+  
 ## Genome annotation
-### Purpose and definition
+#### Purpose and definition
 - Structural genome annotation is the process of identifying genes and their intron-exon structures.
 - Functional genome annotation is the process of attaching meta-data such as gene ontology terms to structural annotations.
 
 {{< figure src="covid19.jpg" title="Genome composition and phylogenetic tree for 2019-nCoV" >}}
 
-
+  
 ## Gene annotation
-### The very basis: find the single most likely coding sequence (CDS, no UTR)
+#### The very basis: find the single most likely coding sequence (CDS, no UTR)
 - Translate sequence into 6 reading frames
 - Look for frame longer that 30 codons (normally 50-60 codons)
 - Presence of start codon and Shine-Dalgarno sequence
@@ -127,7 +127,7 @@ Director of the Wellcome Trust
 - ...
 
 
-
+  
 ## Bioinformatics in Protein Folding
 
 - Protein folding: physical process by which a polypeptide folds into its characteristic and functional three-dimensional structure.
@@ -151,10 +151,10 @@ Key idea: Rosetta searches structure space to find fragments in proper structure
 
 - ...
 
-(\*) Structure prediction will be discussed soon.
+  (\*) Structure prediction will be discussed soon.
 
 
-
+  
 ## Most Bioinformatics problems interested in:
 
 1. Genome sequencing, structure, function, epigenetic genomics, etc.;
@@ -178,7 +178,7 @@ Key idea: Rosetta searches structure space to find fragments in proper structure
 10.	...
 
 
-
+  
 ### Reference
 1.	_Wu, A., Peng, Y., Huang, B., Ding, X., Wang, X., Niu, P., Meng, J., Zhu, Z., Zhang, Z., Wang, J., Sheng, J., Quan, L., Xia, Z., Tan, W., Cheng, G., & Jiang, T. (2020). Genome Composition and Divergence of the Novel Coronavirus (2019-nCoV) Originating in China. Cell host & microbe, 27(3), 325–328._
 2.	_ Robert Krulwich (2003). Cracking the Code of Life (Television Show). PBS._
