@@ -35,7 +35,7 @@ categories:
 - Bioinformatics
 ---
 
-## Definition
+## 1	Definition
 
 Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. As an interdisciplinary field of science, bioinformatics combines **biology**, **computer science**, **information engineering**, **mathematics and statistics** to analyze and interpret the biological data. Bioinformatics has been used for in silico analyses of biological queries using mathematical and statistical techniques (From [Wikipedia](https://en.wikipedia.org/wiki/Bioinformatics)).
 
@@ -50,7 +50,7 @@ Recommendation reading by Xiaole Shirley Liu: [Levels of Bioinformatics Research
 {{< figure src="Bioinformatics.png" title="Bioinformatics / Computational & Systems Biology" >}}
 
   
-## Difference between computational biology and bioinformatics
+## 2	Difference between computational biology and bioinformatics
 	(*) In most conditions, it's not necessary to distinguish this two terms.
 
 
@@ -68,7 +68,7 @@ Recommendation reading by Xiaole Shirley Liu: [Levels of Bioinformatics Research
 
 
   
-## Topics in Computational Biology/ Bioinformatics
+## 3	Topics in Computational Biology/ Bioinformatics
 
 - Sequence analysis
 - Structural bioinformatics: Sequence -> Structure -> Function
@@ -87,7 +87,7 @@ Recommendation reading by Xiaole Shirley Liu: [Levels of Bioinformatics Research
 - ...
 
 
-## The Human Genome Project: 1990-2003
+## 4	The Human Genome Project: 1990-2003
 
 {{< figure src="HGP.jpg" title="The Human Genome Project (HGP) was an international scientific research project with the goal of determining the base pairs that make up human DNA, and of identifying and mapping all of the genes of the human genome from both a physical and a functional standpoint." >}}
 
@@ -109,7 +109,7 @@ Director of the Wellcome Trust
 
 
   
-## Genome annotation
+## 5	Genome annotation
 #### Purpose and definition
 - Structural genome annotation is the process of identifying genes and their intron-exon structures.
 - Functional genome annotation is the process of attaching meta-data such as gene ontology terms to structural annotations.
@@ -117,7 +117,7 @@ Director of the Wellcome Trust
 {{< figure src="covid19.jpg" title="Genome composition and phylogenetic tree for 2019-nCoV" >}}
 
   
-## Gene annotation
+## 6	Gene annotation
 #### The very basis: find the single most likely coding sequence (CDS, no UTR)
 - Translate sequence into 6 reading frames
 - Look for frame longer that 30 codons (normally 50-60 codons)
@@ -128,7 +128,7 @@ Director of the Wellcome Trust
 
 
   
-## Bioinformatics in Protein Folding
+## 7	Bioinformatics in Protein Folding
 
 - Protein folding: physical process by which a polypeptide folds into its characteristic and functional three-dimensional structure.
 
@@ -155,7 +155,7 @@ Key idea: Rosetta searches structure space to find fragments in proper structure
 
 
   
-## Most Bioinformatics problems interested in:
+## 8	Most Bioinformatics problems interested in:
 
 1. Genome sequencing, structure, function, epigenetic genomics, etc.;
 

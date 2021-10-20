@@ -14,7 +14,7 @@ organizations:
   url: http://www.suda.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include bioinformatics, computational biology and systems biology.
+bio: My research interests include bioinformatics, computational biology and systems biology, especially in protein related biological problems.
 
 # Interests to show in About widget
 interests:
@@ -65,7 +65,7 @@ email: ""
 highlight_name: true
 ---
 
-Yu Zhu is an undergraduate student majoring in Bioinformatics at Soochow University (PRC) since 2018. 
+Yu Zhu is an undergraduate student majoring in Bioinformatics at Soochow University, China since 2018. 
 
 Under the guidance of Prof. **Guang Hu** and Prof. **Zhongjie Liang**, he is now focusing on how to integrate bioinformatics and biophysics methods to have an insight into protein dynamics, and how to use structural information for the construction of protein-protein interaction networks. Also, supervised by Prof. **Bairong Shen** at Institutes for Systems Genetics, West China Hospital, he stablished the risk factors database for neurodegenerative diseases ([NDDRF](http://sysbio.org.cn/NDDRF/index.html)) together with other group members.
 
