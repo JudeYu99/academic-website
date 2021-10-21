@@ -33,6 +33,7 @@ item:
   description: |2-
     * The Second Prize in the First “Zhaoyin” Cup Financial Mathematical Modeling Competition
     * The Third Prize for Band C in 2021 National English Competition for College Students 
+    * China National Scholarship
 
 - certificate_url: 
   date_end: "2020-12-31"
