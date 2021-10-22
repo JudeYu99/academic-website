@@ -43,7 +43,7 @@ categories:
 1. Origin of new genes
 2. Evolution of essential genes and development
 
-{{< figure src="tree.png" title="Evolutionary tree showing the divergence of modern species from their common ancestor in the centre. The three domains are coloured, with bacteria blue, archaea green and eukaryotes red.[(From Wikipedia)]" >}}
+{{< figure src="tree.png" title="Evolutionary tree showing the divergence of modern species from their common ancestor in the centre. The three domains are coloured, with bacteria blue, archaea green and eukaryotes red. (from Wikipedia)" >}}
 
 
 
@@ -79,7 +79,7 @@ categories:
 
 - It is impossible for nature to produce brand new genes.
 - The most important part of biochemistry has been formed at the early stage of the origin of life. Nowadays, it is impossible for nature to produce important new biochemical functions.
-- "Essential genes are not organism specific, nor are their functions protected by gene duplication." –- _Michael Ashburner et al, 1999. Genetics_
+- "Essential genes are not organism specific, nor are their functions protected by gene duplication." – _Michael Ashburner et al, 1999. Genetics_
 
 
 
