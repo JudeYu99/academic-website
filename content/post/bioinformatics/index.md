@@ -37,7 +37,7 @@ categories:
 
 ### 1.	Definition
 
-Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. As an interdisciplinary field of science, bioinformatics combines **biology**, **computer science**, **information engineering**, **mathematics and statistics** to analyze and interpret the biological data. Bioinformatics has been used for in silico analyses of biological queries using mathematical and statistical techniques (From [Wikipedia](https://en.wikipedia.org/wiki/Bioinformatics)).
+Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. As an interdisciplinary field of science, bioinformatics combines **biology**, **computer science**, **information engineering**, **mathematics and statistics** to analyze and interpret the biological data. Bioinformatics has been used for in silico analyses of biological queries using mathematical and statistical techniques (from [Wikipedia](https://en.wikipedia.org/wiki/Bioinformatics)).
 
 New research ideas in the field of modern life sciences:
 1.	Various technologies and methods at the omics level
@@ -45,7 +45,7 @@ New research ideas in the field of modern life sciences:
 3.	Use informatics to process data
 4.	Look at the problem from the perspective of systems biology
 
-Recommendation reading about bioinformatics by Xiaole Shirley Liu: [Levels of Bioinformatics Research](http://www.longwoodgenomics.org/2014/10/11/levels-of-bioinformatics-research/).
+Recommendation reading about bioinformatics by Prof. **Xiaole Shirley Liu**: [Levels of Bioinformatics Research](http://www.longwoodgenomics.org/2014/10/11/levels-of-bioinformatics-research/).
 
 {{< figure src="Bioinformatics.png" title="Bioinformatics / Computational & Systems Biology" >}}
 
@@ -93,7 +93,7 @@ Recommendation reading about bioinformatics by Xiaole Shirley Liu: [Levels of Bi
 
 - Proposed in 1985, formally launched in 1990, the work draft was released in 2001, and the completed drawing was completed in 2003;
 
-- In September 1999, China formally joined the HGP and responsible for the 30 million base pairs of the short arm region of human chromosome 3 (1 %) sequencing
+- In September 1999, China formally joined the HGP and responsible for the 30 million base pairs of the short arm region of human chromosome 3 (1%) sequencing;
 
 - Celera independently completed the sequencing of the human genome;
 
@@ -173,7 +173,7 @@ Key idea: Rosetta searches structure space to find fragments in proper structure
 
 8. New technologies and methods of bioinformatics;
 
-9. Single cell sequencing problems;
+9. Single cell sequencing technology;
 
 10.	...
 
@@ -181,7 +181,7 @@ Key idea: Rosetta searches structure space to find fragments in proper structure
   
 ### Reference
 1.	_Wu, A., Peng, Y., Huang, B., Ding, X., Wang, X., Niu, P., Meng, J., Zhu, Z., Zhang, Z., Wang, J., Sheng, J., Quan, L., Xia, Z., Tan, W., Cheng, G., & Jiang, T. (2020). Genome Composition and Divergence of the Novel Coronavirus (2019-nCoV) Originating in China. Cell host & microbe, 27(3), 325–328._
-2.	_ Robert Krulwich (2003). Cracking the Code of Life (Television Show). PBS._
+2.	_Robert Krulwich (2003). Cracking the Code of Life (Television Show). PBS._
 3.	_"Human Genome Project: Sequencing the Human Genome | Learn Science at Scitable". www.nature.com. Retrieved 2016-01-25._
 
 
