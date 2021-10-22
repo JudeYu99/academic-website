@@ -38,7 +38,7 @@ categories:
 
 
 
-## Overview
+### 1.	Overview
 
 1. Origin of new genes
 2. Evolution of essential genes and development
@@ -47,7 +47,7 @@ categories:
 
 
 
-## New Genes Definition & Influence on Evolution of Species
+### 2.	New Genes Definition & Influence on Evolution of Species
 
 - Defined by Prof. **Manyuan Long**, there are two aspects of the definition of new genes:
 
@@ -69,7 +69,7 @@ categories:
 
 
 
-## Theory of Ancient Origination of Essential Functions
+### 3.	Theory of Ancient Origination of Essential Functions
 
 -	-- _Francois Jacob, 1977. Evolution and tinkering. Science: 196: 1161-1166_
 
@@ -83,7 +83,7 @@ categories:
 
 
 
-## Focus on New Genes
+### 4.	Focus on New Genes
 
 - Nature -- _How evolution builds genes from scratch_  
 	Focused news feature article reported and discussed new gene evolution research.
@@ -95,7 +95,7 @@ categories:
 	A new gene cannot simultaneously meet the needs of male and female; when it favors male, it hurts female; when it favors female, it hurts male. 
 
 
-## Imperfect Features of Genes & Impacts of Human Society
+### 5.	Imperfect Features of Genes & Impacts of Human Society
 
 Up till now, Long et al. have observed that
 1.	First, genes that concern sexual differentiation and evolution produced by new genes are often imperfect in its functions. This means that is has a more beneficial function for one sex, often at the expense of the functional significance of the other sex. This is the first type of imperfection.
@@ -103,7 +103,7 @@ Up till now, Long et al. have observed that
 
 
 
-## Inspiration and Outstretch
+### 6.	Inspiration and Outstretch
 
 - New genes and new functional mutant genes belong to the new functional genetic information that is constantly generated during the dynamic evolution of the genome.
 - Dr. Jianhai Chen summarized the relationship between evolution and biology as following:  
