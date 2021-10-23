@@ -9,10 +9,10 @@ summary: ProDy is a free and open-source Python package for protein structural d
 projects: []
 
 # Date published
-date: 2020-01-30T00:00:00Z
+date: 2020-01-20T00:00:00Z
 
 # Date updated
-lastmod: 2020-12-06T00:00:00Z
+lastmod: 2021-05-07T00:00:00Z
 
 # Is this an unpublished draft?
 draft: false
