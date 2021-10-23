@@ -3,7 +3,7 @@ title: Role of Molecular Traits and Drug Expectations for COVID-19
 subtitle: 
 
 # Summary for listings and search engines
-summary: 
+summary: A mini review about molecular traits and personal comments on drug development for SARS-CoV-2
 
 # Link this post with a project
 projects: []
