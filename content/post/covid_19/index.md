@@ -47,9 +47,9 @@ The novel coronavirus (2019-nCoV) outbreak, which initially began in China, has 
 ### 1	Background
 
 On 31 December 2019, the WHO China Country Office was informed of cases of pneumonia of unknown etiology (unknown cause) detected in Wuhan City, Hubei Province of China. As of 3 January 2020, a total of 44 patients with pneumonia of unknown etiology have been reported to WHO by the national authorities in China. Of the 44 cases reported, 11 are severely ill, while the remaining 33 patients are in stable condition. Soon after, the disease was named after COVID-19 and a novel coronavirus (SARS-CoV-2) is responsible for the fatal disease. With the explosive increase of confirmed cases, the WHO declared this outbreak a public health emergency of international concern (PHEIC) on January 30, 2020. 
-According to COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU) (https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6), as of June 29, 2020, the cumulative number of confirmed cases worldwide has reached 10,117,326 with a global deaths of 501,281 (Figure 1).
+According to [COVID-19 Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU), as of June 29, 2020, the cumulative number of confirmed cases worldwide has reached 10,117,326 with a global deaths of 501,281 (Figure 1).
 
-{{< figure src="dashboard.png" title="Figure 1 COVID-19 Dashboard as of June 29, 2020" >}}
+{{< figure src="dashboard.png" title="**Figure 1 COVID-19 Dashboard as of June 29, 2020**" >}}
 
 The high infectivity and lethality of the disease has raised great public concern about the pandemic and once again reminded global citizens of the necessity of social distancing and self-isolation since there’s no specific drugs or vaccines to deal with the virus so far.
 
@@ -79,7 +79,7 @@ In 2012, a disease presenting with acute pneumonia and subsequent renal failure,
 The natural source of SARS-CoV and MERS-CoV has been considered as civet cats and camels, respectively for a long time. However, in subsequent researches there was no evidence for the circulation of SARS-CoV-like viruses in palm civets in the wild or in breeding facilities. Rather, bats are the reservoir of a wide variety of coronaviruses, including SARS-CoV-like and MERS-CoV-like viruses.
 Different species of rhinolophid bats in China carry genetically diverse SARS-like coronaviruses, some of which are direct ancestors of SARS-CoV and hence have the potential to cause direct interspecies transmission to humans. Meanwhile, different coronavirus species closely related to MERS-CoV are circulating in bats. Bats are likely natural reservoirs of MERS-CoV or an ancestral MERS-like CoV. It is hypothesized that bat MERS-like CoV jumped to camels or some other as yet unidentified animal several decades ago. The virus evolved and adapted with accumulating mutations in camels and then was transmitted to humans very recently (Figure 2).
 
-{{< figure src="covs.png" title="Figure 2 The emergence of SARS-CoV and MERS-CoV" >}}
+{{< figure src="covs.png" title="**Figure 2 The emergence of SARS-CoV and MERS-CoV**" >}}
 
 Prior to the outbreak of SARS and MERS, about 60 bat virus species had been reported. The number of identified bat viruses has dramatically increased since the initial SARS outbreak, and most are putative novel virus species or genotypes. The discovery of a rich gene pool of bat SARS-related coronavirus indicates that coronaviruses are highly connected to different bats species. 
 
@@ -97,7 +97,7 @@ The rapid development of sequencing technology in recent years has brought biolo
 Suzhou Institute of Systems Medicine worked closely with CDC and after an in-depth annotation of the SARS-CoV-2 genome and comparison with similar coronaviruses revealed the genome composition of SARS-CoV-2 and the severe acute respiratory syndrome coronavirus (SARS-CoV) outbreak in 2003. There are significant differences between the protein sequences, which is expected to help researchers deeply understand the true origin and subsequent evolution of SARS-CoV-2, and provide a theoretical basis for subsequent prevention research.
 The researchers found that the new coronavirus encodes 16 non-structural proteins (nsp1-nsp16), 8 accessory proteins (3a, 3b, p6, 7a, 7b, 8b, 9b, and orf14) and 4 structural proteins (S, E, M and N) (Figure 3). 
 
-{{< figure src="covid19.jpg" title="Figure 3 Genome composition and phylogenetic tree for 2019-nCoV" >}}
+{{< figure src="covid19.jpg" title="**Figure 3 Genome composition and phylogenetic tree for 2019-nCoV**" >}}
 
 The genome-wide phylogenetic tree derived from molecular evolutionary genetic analysis shows that SARS-CoV-2 is in the same beta coronavirus evolution branch as human CoV, MERS-CoV, bat CoV, SARS-like bat CoV, and SARS-CoV, and SARS-CoV-2 is closer to SARS-like bat CoV in terms of the entire genome sequence, which is quite different from MERS-CoV. By systematically comparing the amino acid sequences of SARS-CoV-2 with SARS and SARS-like coronaviruses on each encoded protein, the research team found a total of 380 different amino acid positions between the two. Among them, 27 amino acid substitutions were found on the S protein (Spike) of the virus. These differences in protein levels may help to reveal the potential differences between SARS-CoV-2 and SARS viruses in infectivity and pathogenicity.
 Meanwhile, scientists from Chinese Academy of Sciences utilized the 93 complete SARS-CoV-2 genomes from the GISAID EpiFluTM database and the evolution of SARS-CoV-2 in the past two months was studied. 120 replacement sites were found in 8 coding regions, of which 79 were non-synonymous substitutions, 40 were synonymous substitutions. The team also divided 58 haplotypes into 5 groups, of which 31 haplotypes came from Chinese patients and 31 came from other countries. At the same time, it was found that the genomic variation of SARS-CoV-2 is much lower than that of SARS-CoV and MERS-CoV.
@@ -114,14 +114,14 @@ There exists a methylated cap structure at the 5' end of the genome, and a poly(
 Since coronaviruses cannot reproduce on their own, they have to hijack our cellular equipment to make copies of themselves. When the viruses reach the surface of cells, they uncover themselves by changing the physical appearance of the protein and mask with sugars or glycans. Then, the coronaviruses stretch out their protein spikes and use the shape of the protein to bind with the receptor on cells’ surface and get into the cell like a key and a lock. When they finally get inside the cell, they are free to release their genetical materials and begin to replicate themselves. Firstly, the host's translation mechanism is hijacked and used to translate polyproteins and necessary viral proteases. Polyproteins (pp1a and pp1ab) are cleaved into 16 non-structural effector proteins by 3CLpro and PLpro, allowing them to form a replication complex with RNA-dependent RNA polymerase, which synthesizes full-length negative RNA strand templates.
 It is used to replicate the complete RNA genome and generate a single sub-genomic mRNA template for translation of viral structural proteins and auxiliary proteins. The newly synthesized structural proteins and accessory proteins are transported from the endoplasmic reticulum through the Golgi apparatus, and then new virus ions are accumulated in the budding Golgi vesicles. Finally, the mature SARS-CoV-2 virus is released from the host cell into the surrounding environment, repeating the infection cycle.
 
-{{< figure src="lifecycle.png" title="Figure 4 Life cycle of coronaviruses in cells (SARS-CoV and MERS-CoV)" >}}
+{{< figure src="lifecycle.png" title="**Figure 4 Life cycle of coronaviruses in cells (SARS-CoV and MERS-CoV)**" >}}
 
 
 ### 4	Key Protein with Structural Conformation Changes
 
 Coronavirus particles are composed of structural proteins and RNA: the outermost is Spike protein (S); then Envelope protein (E) and Membrane glycoprotein (M), assembled into virus particles Morphology; the innermost part is the nucleic acid substance RNA responsible for virus propagation, which is wrapped and protected by Nucleocapsid protein (N) (Figure 5). These proteins and RNA together form infectious virus particles that can cause disease.
 
-{{< figure src="structure.png" title="Figure 5 Structure of coronavirus" >}}
+{{< figure src="structure.png" title="**Figure 5 Structure of coronavirus**" >}}
 
 
 #### 4.1 Spike Protein and ACE Receptor as Essential Parts
@@ -134,20 +134,20 @@ The primary determinant of CoV tropism is the viral spike (S) entry protein. Tri
 
 Using cryo-electron microscopy technology, it was found from the structure that one of the three receptor binding domains (RBD) of the novel coronavirus S protein would spiral upward, thereby allowing the S protein to form a space that can easily bind to the host receptor ACE2 conformation. In order to access the host cell receptor, the receptor binding domain (RBD) of the S protein undergoes a hinge-like conformational movement to hide or expose the key sites of receptor binding. This feature is similar to SARS-CoV and MERS-CoV, but the RBD structure of the new coronavirus is closer to the center of the trimer. The RBD of single-chain S protein is in the 3.45 Å electron microscope structure, there are two different states: "down"-receptor unbound state; "up"-receptor bindable state, "up" structure is in a relatively unstable state. The structure contains three monomeric S proteins assembled into a trimer, and the RBD has a "top and bottom" conformation (Figure 6).
 
-{{< figure src="covStructure.png" title="Figure 6 Structure of 2019-nCoV S in the prefusion conformation" >}}
+{{< figure src="covStructure.png" title="**Figure 6 Structure of 2019-nCoV S in the prefusion conformation**" >}}
 
 Through surface plasmon resonance technology (SPR) and negative staining EM, it has been functionally verified that according to SARS-CoV, the new coronavirus has higher affinity with ACE2. The affinity of the ACE2 protein with the new coronavirus is 10 to 20 times that of the SARS virus.
 The RBD domains of the new coronavirus are in the "three down" closed electron microscope structure and the "one up and two down" semi-open state. These structures further demonstrate the diversity of S protein trimer (Figure 7).
 
 
-{{< figure src="cryoem.png" title="Figure 7 Cryo-EM Structures of the SARS-CoV-2 S Glycoprotein" >}}
+{{< figure src="cryoem.png" title="**Figure 7 Cryo-EM Structures of the SARS-CoV-2 S Glycoprotein**" >}}
 
 
 #### 4.3 Discovery of Full-length Structure
 
 Scientists from West Lake University, China disclosed the full-length structure of ACE2 and found that under the stability of the amino acid transport membrane protein B⁰AT1 in the intestine, ACE2 exists as a dimer, and its tail transmembrane region is tightly bound to B⁰AT1 protein. The researchers also observed two different conformations of ACE2, the activated "open" conformation and the non-activated "closed" conformation (Figure 8). This is the first time in the world to see the full picture of ACE2 at the atomic resolution level. 
 
-{{< figure src="RBD.png" title="Figure 8 Overall structure of the RBD-ACE2-B0AT1 complex" >}}
+{{< figure src="RBD.png" title="**Figure 8 Overall structure of the RBD-ACE2-B0AT1 complex**" >}}
 
 Subsequently, the same team once again released the 2.9 Å high-resolution electron microscope structure of the ACE2 and Sᴿᴮᴰ complex on bioRxiv, further demystifying the virus invading human cells. These research results provide a solid structural basis for the design of antibodies, small molecules and peptide drugs that disrupt the interaction between ACE2 and S protein.
 
@@ -192,7 +192,7 @@ In addition to being a receptor for the invasion of novel coronavirus, ACE2 also
 Apart from the drug candidates mentioned above, multiple clinical trials are already underway to evaluate the effects of other treatment options. More than 50 existing MERS and/or SARS inhibitors can be used to screen potential therapies for the treatment of new coronaviruses. Here, researchers summarize the ongoing therapeutic options that may lead us to combating the novel pathogen (Figure 9).
 
 
-{{< figure src="drugrepurposing.png" title="Figure 9 Overview of the repurposed therapeutic drugs undergoing clinical trial against COVID-19 in the context of host pathways and virus replication mechanisms" >}}
+{{< figure src="drugrepurposing.png" title="**Figure 9 Overview of the repurposed therapeutic drugs undergoing clinical trial against COVID-19 in the context of host pathways and virus replication mechanisms**" >}}
 
 
 #### 5.3 Computer-aided Drug Design (CADD)
@@ -215,7 +215,7 @@ Due to the complexity of SARS-CoV-2 structures, targeting protein-protein intera
 
 In a new study, 26 SARS-CoV-2 proteins were cloned, labeled and expressed in human cells. By affinity purification mass spectrometry (AP-MS), 332 highly reliable SARS-CoV-2 and human protein-protein interactions (PPIs) were identified (Figure 10).
 
-{{< figure src="PPI.png" title="Figure 10 SARS-CoV-2 Protein-Protein Interaction Network" >}}
+{{< figure src="PPI.png" title="**Figure 10 SARS-CoV-2 Protein-Protein Interaction Network**" >}}
 
 Drug discovery based on PPIs in different dimensions, from the enumeration of allosteric mechanism to the identification of allosteric pockets counts for possible drug target identification. For each SARS-CoV-2 viral protein, the researchers performed gene ontology enrichment analysis and found that the SARS-CoV-2 viral protein is connected to a wide range of cell biological processes in the human body, including:
 		DNA replication (Nsp1), epigenetics and gene expression regulation (Nsp5/8/13; E), vesicle transport (Nsp6/7/10/13/15; Orf3a/8; E), lipid modification (S) , RNA processing and regulation (Nsp8; N), ubiquitination regulation (Orf10), signal transduction (Nsp8/13; N; Orf19b), nuclear transport mechanism (Nsp9/15; Orf6), cytoskeleton (Nsp1/13) , Mitochondria (Nsp4/8; Orf9c) and extracellular matrix (Nsp9), etc.
