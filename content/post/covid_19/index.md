@@ -239,7 +239,6 @@ Something interesting in treating COVID-19 also deserves more attention. A study
 In addition, potential drugs have been widely used in clinical applications. In June, a team from Oxford declared that low-cost dexamethasone reduces death by up to one third in hospitalized patients with severe respiratory complications of COVID-19. For the first time, one drug was shown to improve survival in COVID-19 even though the supporting evidence is weak. Various drug candidates selected by multiple methods have been utilized in clinical trials and no convincing results has been made. Thus, more in-depth research and innovative strategies need to be conducted for possible drug discovery. 
 Similarly, referring to the protein-protein interaction network between humans and SARS-CoV-2, drug developers can quickly find possible drug candidates for COVID-19. At the same time, targeted biochemical and structural research helps to understand the virus-host complex more deeply, which also provides important information for the design and development of COVID-19 special effects.
 
-
   
 ### Reference
 
