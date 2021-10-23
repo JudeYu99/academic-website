@@ -3,7 +3,7 @@ title: ProDy - Elastic Network Model
 subtitle: Introduction of Elastic Network Model (ENM) and ProDy package
 
 # Summary for listings and search engines
-summary: ProDy is a free and open-source Python package for protein structural dynamics analysis based on elastic network model (ENM) theory. The anisotropic network model (ANM) and the Gaussian network model (GNM) are two kinds of elastic network models for performing normal mode analysis on low-frequency modes of proteins and their complexes. 
+summary: The anisotropic network model (ANM) and the Gaussian network model (GNM) are two kinds of elastic network models (ENMs) for performing normal mode analysis on low-frequency modes of proteins and their complexes. 
 
 # Link this post with a project
 projects: []
