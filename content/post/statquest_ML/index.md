@@ -42,7 +42,7 @@ categories:
 Machine learning is the scientific research of algorithms and statistical models for computer systems to perform specific tasks. It does not use explicit instructions, but instead relies on patterns and reasoning to complete tasks.  
 Machine learning is considered a subset of artificial intelligence, and unsupervised exploratory data analysis in machine learning is also called data mining.
 
-[Wikipedia Definition](https://en.wikipedia.org/wiki/Machine_learning):
+[Wikipedia Definition](https://en.wikipedia.org/wiki/Machine_learning):  
 Machine learning (ML) is the study of computer algorithms that can improve automatically through experience and by the use of data. It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so. Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.
 
   
