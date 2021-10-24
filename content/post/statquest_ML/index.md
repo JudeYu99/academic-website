@@ -1,5 +1,5 @@
 ---
-title: StatQuest Biostatistics - Introduction to Machine Learning
+title: StatQuest Biostatistics - Introduction to Machine Learning (ML)
 subtitle: 
 
 # Summary for listings and search engines
