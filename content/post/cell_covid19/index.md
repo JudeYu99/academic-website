@@ -62,7 +62,7 @@ In response to previously reported pathological changes such as seminiferous tub
 
 It is worth mentioning that for the ACE2 protein, the culprit of the SARS-CoV-2 entering the human body, the research team found that there is no significant difference in the number of different types of organs in patients compared with non-coronavirus patients. On the contrary, cathepsin L (CTSL), which helps viruses enter cells, has increased significantly in the lungs of patients. This suggests that ACE2 is only a channel for the novel coronavirus to enter the human body, but CTSL may be a potential therapeutic target to block virus invasion.
 
-
+To sum up, the study described the multi-organ proteomics profile of patients who died from COVID-19, revealed multiple newly discovered protein changes and biological processes, and provided new clues for the prevention and treatment of COVID-19. Of course, these studies are based on tissue samples from patients who died from the new crown. Whether the same changes will occur in mild and severe patients, and whether such changes are reversible, still needs further research.
 
   
 ### Reference
