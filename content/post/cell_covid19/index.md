@@ -1,9 +1,9 @@
 ---
 title: Cell Publications - Multi-organ Proteomic Landscape of COVID-19 Autopsies
-subtitle: The first protein-level systematic analysis of the response of multiple key organs after the novel coronavirus infection
+subtitle: For the first time in the world, at the protein level, a detailed and systematic analysis of the response of multiple key organs after the novel coronavirus infection has been carried out.
 
 # Summary for listings and search engines
-summary: For the first time in the world, at the protein level, a detailed and systematic analysis of the response of multiple key organs after the novel coronavirus infection has been carried out.
+summary: The first protein-level systematic analysis of the response of multiple key organs after the novel coronavirus infection
 
 # Link this post with a project
 projects: []
