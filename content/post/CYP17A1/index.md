@@ -3,7 +3,7 @@ title: Journal of Chemical Information and Modeling | Comparative Dynamics and F
 subtitle: 
 
 # Summary for listings and search engines
-summary: An integrated calculation strategy to systematically study the mechanism of ligand binding and channel "tunneling" kinetics at the atomic level
+summary: An integrated calculation strategy to systematically study the mechanism of ligand binding and channel tunneling dynamics at the atomic level
 
 # Link this post with a project
 projects: []

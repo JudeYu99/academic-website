@@ -3,7 +3,7 @@ title: Nature Communications | CopulaNet - Learning residue co-evolution directl
 subtitle: 
 
 # Summary for listings and search engines
-summary: An end-to-end deep neural network framework called **CopulaNet** for estimating the distance between residues
+summary: An end-to-end deep neural network framework called CopulaNet for estimating the distance between residues
 
 # Link this post with a project
 projects: []
