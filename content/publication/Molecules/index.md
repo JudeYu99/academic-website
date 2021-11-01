@@ -41,7 +41,7 @@ summary: Allosteric drug design targeting DNMT1 Protein-Protein Interactions (PP
 
 categories:
 - DNMT
-- PPI
+- Protein-protein Interaction (PPI)
 - Allosteric Drug Design
 
 # Display this page in the Featured widget?

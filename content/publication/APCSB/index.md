@@ -39,7 +39,7 @@ summary: Computational tools now provide reliable assessments of hot spots and p
 categories:
 - DNMT
 - Allosteric Drug Design
-- PPI
+- Protein-protein Interaction (PPI)
 
 
 # Display this page in the Featured widget?
