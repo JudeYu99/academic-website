@@ -40,7 +40,7 @@ categories:
 
 The general workflow of MD simulation using Gromacs is shown below.  
 
-{{< figure src="workflow.png" title="Workflow for MD simulation using Gromacs" >}}
+{{< figure src="workflow.png" title="**Figure 1. Workflow for MD simulation using Gromacs**" >}}
 
   
 ### Material and Methods
@@ -101,5 +101,8 @@ Gromacs related commands and configuration files have been uploaded to GitHub, f
 ### Reference
 1.	_1.  Van Der Spoel, D., Lindahl, E., Hess, B., Groenhof, G., Mark, A. E., & Berendsen, H. J. (2005). GROMACS: fast, flexible, and free. Journal of computational chemistry, 26(16), 1701–1718._
 2.	_.  Lindahl, Abraham, Hess, & van der Spoel. (2021, March 8). GROMACS 2021.1 Manual (Version 2021.1). Zenodo._
+3.	_A Roy, A Kucukural, Y Zhang. I-TASSER: a unified platform for automated protein structure and function prediction. Nature Protocols, 5: 725-738 (2010)._
+4.	_J Yang, Y Zhang. I-TASSER server: new development for protein structure and function predictions. Nucleic Acids Research, 43: W174-W181 (2015)._
+5.	_J Yang, R Yan, A Roy, D Xu, J Poisson, Y Zhang. The I-TASSER Suite: Protein structure and function prediction. Nature Methods, 12: 7-8 (2015)._
 
 
