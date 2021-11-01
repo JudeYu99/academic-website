@@ -1,5 +1,5 @@
 ---
-title: _Journal of Chemical Information and Modeling_ | Comparative Dynamics and Functional Mechanisms of the CYP17A1 Tunnels Regulated by Ligand Binding 
+title: Journal of Chemical Information and Modeling | Comparative Dynamics and Functional Mechanisms of the CYP17A1 Tunnels Regulated by Ligand Binding 
 subtitle: 
 
 # Summary for listings and search engines

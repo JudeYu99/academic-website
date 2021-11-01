@@ -1,5 +1,5 @@
 ---
-title: _Science_ | Interactions between nascent proteins translated by adjacent ribosomes drive homomer assembly
+title: Science | Interactions between nascent proteins translated by adjacent ribosomes drive homomer assembly
 subtitle: 
 
 # Summary for listings and search engines

@@ -1,5 +1,5 @@
 ---
-title: _Nature Communications_ | CopulaNet - Learning residue co-evolution directly from multiple sequence alignment for protein structure prediction
+title: Nature Communications | CopulaNet - Learning residue co-evolution directly from multiple sequence alignment for protein structure prediction
 subtitle: 
 
 # Summary for listings and search engines
