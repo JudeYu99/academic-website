@@ -1,5 +1,5 @@
 ---
-title: Cell Publications | Multi-organ Proteomic Landscape of COVID-19 Autopsies
+title: _Cell_ | Multi-organ Proteomic Landscape of COVID-19 Autopsies
 subtitle: For the first time in the world, at the protein level, a detailed and systematic analysis of the response of multiple key organs after the novel coronavirus infection has been carried out.
 
 # Summary for listings and search engines
