@@ -35,6 +35,7 @@ item:
     * The Third Prize for Band C in 2021 National English Competition for College Students 
     * National Scholarship
     * Comprehensive Scholarship
+    * Merit Student
     * The Special Scholarship for Innovation and Entrepreneurship
     * The Special Prize Scholarship for Academic Excellence
 
