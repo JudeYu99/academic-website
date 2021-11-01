@@ -44,7 +44,7 @@ tags: []
 # Display this page in the Featured widget?
 # featured: true
 
-url_pdf: ''
+url_pdf: 'https://www.mdpi.com/1420-3049/26/17/5153/pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
