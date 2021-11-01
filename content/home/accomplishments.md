@@ -34,6 +34,10 @@ item:
     * The Second Prize in the First “Zhaoyin” Cup Financial Mathematical Modeling Competition
     * The Third Prize for Band C in 2021 National English Competition for College Students 
     * National Scholarship
+    * Comprehensive Scholarship
+    * The Special Scholarship for Innovation and Entrepreneurship
+    * The Special Prize Scholarship for Academic Excellence
+
 
 - certificate_url: 
   date_end: "2020-12-31"
@@ -48,6 +52,7 @@ item:
     * The Special Scholarship for Innovation and Entrepreneurship
     * Merit Student
     * Scientific and Technological Innovation Star of Medical College
+
 
 - certificate_url: 
   date_end: "2019-12-31"
