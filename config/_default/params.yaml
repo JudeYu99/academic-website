@@ -31,9 +31,9 @@ address:
 directions: Department of Bioinformatics, School of Biology and Basic Medical Sciences
 
 coordinates:
-  latitude: 31.280453
-  longitude: 120.73866
-
+  latitude: '31.280453'
+  longitude: '120.73866'
+  
 # directions: Center for Systems Biology
 
 contact_links:
