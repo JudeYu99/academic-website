@@ -36,7 +36,10 @@ abstract: DNA methyltransferase 1 (DNMT1), a large multidomain enzyme, is believ
 # Summary. An optional shortened abstract.
 summary: Highlights in the publication include 1)Dynamics and allosteric potentials of the RFTS domain are proposed. 2)Hinge sites located at the RFTS-CD interface are key regulators for inter-domain interactions. 3)Network analysis reveals local allosteric networks and inter-domain communication pathways in DNMT1. 4)A potential allosteric site at the TRD interface for DNMT1 is identified.
 
-tags: []
+categories:
+- DNMT
+- Elastic network model
+- Allosteric Drug Design
 
 # Display this page in the Featured widget?
 # featured: true
@@ -59,4 +62,4 @@ image:
 
 ---
 
-Supplementary material can be found on [this web page](https://www.mdpi.com/1420-3049/26/17/5153).
+Supplementary material can be found on [this web page](https://www.sciencedirect.com/science/article/pii/S2001037019304714#s0110).

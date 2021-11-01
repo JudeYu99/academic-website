@@ -39,7 +39,10 @@ abstract: DNA methyltransferases (DNMTs) including DNMT1 are a conserved family 
 # Summary. An optional shortened abstract.
 summary: Allosteric drug design targeting DNMT1 Protein-Protein Interactions (PPIs) combining both biophysics and bioinformatics methods.
 
-tags: []
+categories:
+- DNMT
+- PPI
+- Allosteric Drug Design
 
 # Display this page in the Featured widget?
 # featured: true

@@ -35,7 +35,12 @@ abstract: DNA methyltransferases (DNMTs) not only play key roles in epigenetic g
 # Summary. An optional shortened abstract.
 summary: Computational tools now provide reliable assessments of hot spots and pockets found in PPIs, proving reasonable starting points for epigenetic drug design. In this chapter, a hybrid approach, comprising protein structure network, elastic network model, perturbation response scanning and sequence evolution analysis, was proposed for the systematic study of intrinsic dynamics, allostery regulation principle, allosteric sites and pockets. By applied this integrating approach to DNMT1 and DNMT3A, the roles of protein-protein and domain-domain interactions in allosteric drug design were highlighted. 
 
-tags: [DNMTs, Allosteric Drug Design, PPI]
+
+categories:
+- DNMT
+- Allosteric Drug Design
+- PPI
+
 
 # Display this page in the Featured widget?
 # featured: true
