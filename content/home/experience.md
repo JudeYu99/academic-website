@@ -30,7 +30,7 @@ experience:
     date_start: '2020-05-01'
     date_end: ''
     description: |2-
-        Supervised by: Prof. **Guang Hu** and Prof. **Zhongjie Liang**
+        Supervised by: Assoc. Prof. **Guang Hu** and Assoc. Prof. **Zhongjie Liang**
 
         Responsibilities include:
         
@@ -46,7 +46,7 @@ experience:
     date_start: '2019-10-01'
     date_end: '2020-10-01'
     description: |2-
-        Supervised by: Prof. **Guang Hu** and Prof. **Zhongjie Liang**
+        Supervised by: Assoc. Prof. **Guang Hu** and Assoc. Prof. **Zhongjie Liang**
 
         Responsibilities include:
         
