@@ -66,7 +66,7 @@ item:
     * The First Prize for Academic Excellence
     * Comprehensive Prize
     * Merit Student
-    * Special Prize for Spiritual Civilization
+    * The Special Prize for Spiritual Civilization
     * Excellent Volunteer Team
     * Excellent Summer Social Practice Team
 
