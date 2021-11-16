@@ -23,7 +23,7 @@ interests:
 - Systems Biology
 - Biological Network
 - Proteome Informatics
-- Allostery Drug Design
+- Allosteric Drug Design
 - Database
 
 # Education to show in About widget
