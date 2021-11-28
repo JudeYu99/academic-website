@@ -28,7 +28,7 @@ feature:
 - description: Commonly used operating system
   icon: server
   icon_pack: fas
-  name: Linux Server
+  name: Unix/Linux-based platform
 - description: Establishment of biological database
   icon: database
   icon_pack: fas
