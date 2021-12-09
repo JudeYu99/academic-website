@@ -31,8 +31,9 @@ item:
   title: Year 2021
   url: ""
   description: |2-
-    * The Second Prize in the First “Zhaoyin” Cup Financial Mathematical Modeling Competition
+    * The Second Prize in the First "Zhaoyin" Cup Financial Mathematical Modeling Competition
     * The Third Prize for Band C in 2021 National English Competition for College Students 
+    * The Second Prize in the 22nd "Challenge Cup" Medical College of Soochow University Undergraduate Curricular Academic Science and Technology Works Competition
     * National Scholarship
     * Comprehensive Scholarship
     * Merit Student
