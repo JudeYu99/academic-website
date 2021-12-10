@@ -45,6 +45,6 @@ A personal detailed notes about Evol can be accessed [here](./Evol.pdf).
   
 ### Reference
 
-1.	_MMBioS Virtual Hands-on Workshop on Computational Biophysics, https://www.youtube.com/watch?v=7xOhgrwuwNk&list=PLHmIPhi01uH9F8fvpQN-dJWMEFwaLZbUn_
+1. _MMBioS Virtual Hands-on Workshop on Computational Biophysics, https://www.youtube.com/watch?v=7xOhgrwuwNk&list=PLHmIPhi01uH9F8fvpQN-dJWMEFwaLZbUn._
 
 
