@@ -49,7 +49,8 @@ Studies have shown that genes associated with disease are not randomly distribut
 
 This paper presents an interactive, user-friendly platform that helps scientists and clinicians with non-computer backgrounds to mine different layers of a large heterogeneous biological network, the NeDRexDB knowledgebase. NeDRex provides users with multiple web-based methods to obtain disease modules associated with the disease under study and to directly or indirectly sequence drugs against the disease modules. NeDRex can also prioritize approved drugs to skip the preclinical study phase and go directly to clinical trials, speeding up the drug development process. Thanks to the expert engagement model, researchers from the biomedical sciences can leverage their domain knowledge in different nodes of the workflow, for example, by using the platform to filter disease genes already provided, or by using their own gene sets as the start of the algorithm.
 
-NeDRex is built of three main components: a knowledgebase (NeDRexDB, available at http://neo4j.nedrex.net/ and https:// api.nedrex.net/), a Cytoscape app (NeDRexApp, available at https://apps.cytoscape.org/apps/nedrex), and an API (NeDRex- API, available at https://api.nedrex.net/).
+NeDRex is built of three main components: a knowledgebase (NeDRexDB, available at 
+http://neo4j.nedrex.net/ and https://api.nedrex.net/ ), a Cytoscape app (NeDRexApp, available at https://apps.cytoscape.org/apps/nedrex ), and an API (NeDRex- API, available at https://api.nedrex.net/ ).
 
 
 ### Flowchart
