@@ -34,7 +34,9 @@ authors:
 categories:
 - Bioinformatics
 - Biological Network
+- Network Pharmacology
 - Drug Repurposing
+
 ---
 
 ### Standing on the shoulders of giants
