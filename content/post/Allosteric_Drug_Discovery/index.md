@@ -49,5 +49,5 @@ As a result, the authors propose that computational approaches to drug developme
 ### Reference
 
 1.	_Ni D, Chai Z, Wang Y, Li M, Yu Z, Liu Y, et al. Along the allostery stream: Recent advances in computational methods for allosteric drug discovery. WIREs Comput Mol Sci. 2021;e1585._
-2.	_Molecular Design Laboratory_
+2.	_Molecular Design Laboratory._
 
