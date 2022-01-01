@@ -23,6 +23,7 @@ interests:
 - Systems Biology
 - Biological Network
 - Biological Algorithm
+- Sequence Conservation
 - Proteome Informatics
 - Allosteric Drug Design
 - Database
