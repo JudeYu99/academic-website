@@ -20,6 +20,7 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+
 - description: Commonly used programming language
   icon: r-project
   icon_pack: fab
@@ -33,7 +34,7 @@ feature:
 - description: Establishment of biological database and web page
   icon: database
   icon_pack: fas
-  name: Database $ Web Page
+  name: Database & Web Page
 
 - description: Multi-scale bioinformatics analysis
   icon: dna
