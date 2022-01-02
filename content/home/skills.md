@@ -29,10 +29,11 @@ feature:
   icon: server
   icon_pack: fas
   name: Unix/Linux-based platform
-- description: Establishment of biological database
+
+- description: Establishment of biological database and web page
   icon: database
   icon_pack: fas
-  name: Database
+  name: Database $ Web Page
 
 - description: Multi-scale bioinformatics analysis
   icon: dna
