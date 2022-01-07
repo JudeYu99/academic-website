@@ -40,7 +40,7 @@ categories:
 
 [**MMBioS workshops**](https://mmbios.pitt.edu/outreach/workshops) provide hands-on and state-of-the-art training in topics related to our Technology Research & Development projects and other expertise present within MMBioS participants.
 
-A personal detailed notes about Evol can be accessed [here](./Evol.pdf).
+A personal detailed notes about **Evol** can be accessed [here](./Evol.pdf).
 
   
 ### Reference
