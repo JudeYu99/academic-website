@@ -64,6 +64,6 @@ Conceptually, V-SYNTHES utilizes a similar paradigm to FBDD, but the differences
 ### Reference
 
 1.	_Sadybekov, A.A., Sadybekov, A.V., Liu, Y. et al. Synthon-based ligand discovery in virtual libraries of over 11 billion compounds. Nature (2021)._
-2.	_Now scientists can efficiently screen billions of chemical compounds to find effective new drug therapies_
+2.	_Now scientists can efficiently screen billions of chemical compounds to find effective new drug therapies._
 
 
