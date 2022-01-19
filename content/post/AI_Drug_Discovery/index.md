@@ -9,10 +9,10 @@ summary: What does artificial intelligence need to change to drive drug discover
 projects: []
 
 # Date published
-date: 2022-01-20T00:00:00Z
+date: 2022-01-18T00:00:00Z
 
 # Date updated
-lastmod: 2022-01-21T00:00:00Z
+lastmod: 2022-01-19T00:00:00Z
 
 # Is this an unpublished draft?
 draft: false
