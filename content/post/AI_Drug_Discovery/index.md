@@ -73,6 +73,6 @@ Improved use of artificial intelligence in drug discovery will come from a more 
 
 2.	_BENDER, A., et al. (2021). Artificial intelligence in drug discovery: what is realistic, what are illusions? Part 2: a discussion of chemical and biological data. Drug Discovery Today._
 
-3.	_https://www.ebi.ac.uk/about/news/opinion/ai-drug-discovery_
+3.	_https://www.ebi.ac.uk/about/news/opinion/ai-drug-discovery._
 
 4.	_DrugAI_
