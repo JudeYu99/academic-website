@@ -66,6 +66,8 @@ The researchers conducted computational simulations to determine the impact of r
 The data currently available do not always allow researchers to make judgments about the efficacy and safety of potential new drugs, for example using data from preclinical versus clinical sources. When these types of data, which predict in vivo conditions from an efficacy and safety perspective, are large enough, artificial intelligence can use them in the drug discovery decision-making process. Once this stage is reached, AI in drug discovery may be elevated to a whole new level.
 
 Improved use of artificial intelligence in drug discovery will come from a more comprehensive understanding of the complex connections between genes, proteins and diseases. Once researchers generate and use data that truly reflect the biological aspects of drug discovery and correlate these data with relevant in vivo endpoints, researchers can apply AI approaches to make real advances in the field, improve understanding of efficacy and safety in drug discovery, and apply AI to these data, potentially having a far-reaching impact.
+
+More information can be accessed [here](https://www.ebi.ac.uk/about/news/opinion/ai-drug-discovery).
   
 ### Reference
 
@@ -73,6 +75,4 @@ Improved use of artificial intelligence in drug discovery will come from a more 
 
 2.	_BENDER, A., et al. (2021). Artificial intelligence in drug discovery: what is realistic, what are illusions? Part 2: a discussion of chemical and biological data. Drug Discovery Today._
 
-3.	_https://www.ebi.ac.uk/about/news/opinion/ai-drug-discovery._
-
-4.	_DrugAI_
+3.	_DrugAI_
