@@ -3,7 +3,7 @@ title: Artificial intelligence in drug discovery and what's holding it back?
 subtitle: 
 
 # Summary for listings and search engines
-summary: What does artificial intelligence need to change to drive drug discovery?
+summary: What does artificial intelligence need to change to drive drug discovery
 
 # Link this post with a project
 projects: []
