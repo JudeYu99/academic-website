@@ -67,9 +67,9 @@ email: ""
 highlight_name: true
 ---
 
-Yu Zhu is an undergraduate student majoring in Bioinformatics at Soochow University, China since 2018. 
+Yu Zhu is an undergraduate student majoring in **Bioinformatics** at **Soochow University, China** since 2018. 
 
-Under the guidance of Assoc. Prof. **Guang Hu** and Assoc. Prof. **Zhongjie Liang**, he is now focusing on how to integrate bioinformatics and biophysics methods to have an insight into protein dynamics, along with protein sequence, structure and function research and finally figure out how to use structural information for the construction and analysis of protein-protein interaction networks, paving the way for drug discovery. Also, supervised by Prof. **Bairong Shen** at Institutes for Systems Genetics, West China Hospital, he established a risk factor knowledgebase for neurodegenerative diseases ([NDDRF](http://sysbio.org.cn/NDDRF/index.html)) together with other group members.
+Under the guidance of Assoc. Prof. **Guang Hu** and Assoc. Prof. **Zhongjie Liang**, he is now focusing on how to integrate bioinformatics and biophysics methods to have an insight into protein dynamics, along with protein sequence, structure and function research and finally figure out how to use structural information for the construction and analysis of protein-protein interaction networks, paving the way for drug discovery. Also, supervised by Prof. **Bairong Shen** at **Institutes for Systems Genetics, West China Hospital**, he established a risk factor knowledgebase for neurodegenerative diseases ([NDDRF](http://sysbio.org.cn/NDDRF/index.html)) together with other group members.
 
 
 {{< icon name="download" pack="fas" >}} Download Personal CV {{< staticref "uploads/CV_2022_01_01.pdf" "newtab" >}}here{{< /staticref >}}.
