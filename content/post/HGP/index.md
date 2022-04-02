@@ -52,10 +52,10 @@ The current release of the genome sequence still has a shortcoming: T2T-CHM13 do
 
 ### Reference
 
-1.	_http://doi.org/10.1126/science.abj6987_
-2.	_http://doi.org/10.1126/science.abl3533_
-3.	_http://doi.org/10.1126/science.abl4178_
-4.	_http://doi.org/10.1126/science.abj5089_
-5.	_https://doi.org/10.1126/science.abk3112_
-6.	_https://doi.org/10.1126/science.abj6965_
-7.	_https://doi.org/10.1126/science.abo5367_
+1.	http://doi.org/10.1126/science.abj6987
+2.	http://doi.org/10.1126/science.abl3533
+3.	http://doi.org/10.1126/science.abl4178
+4.	http://doi.org/10.1126/science.abj5089
+5.	https://doi.org/10.1126/science.abk3112
+6.	https://doi.org/10.1126/science.abj6965
+7.	https://doi.org/10.1126/science.abo5367
