@@ -18,11 +18,11 @@ bio: My research interests include bioinformatics, computational biology and sys
 
 # Interests to show in About widget
 interests:
-- Bioinformatics
 - Computational Biology
 - Systems Biology
+- Structure Bioinformatics
 - Biological Network
-- Biological Algorithm
+- Bioinformatics Algorithm
 - Sequence Conservation
 - Proteome Informatics
 - Allosteric Drug Design
