@@ -33,7 +33,7 @@ education:
   courses:
   - course: BSc in Bioinformatics
     institution: Soochow University, China
-    year: 2018 - Present
+    year: 2018 - 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
