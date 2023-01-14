@@ -6,12 +6,12 @@ title: Yu Zhu
 superuser: true
 
 # Role/position/tagline
-role: BSc Candidate of Bioinformatics
+role: MSc Drug Design student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Soochow University
-  url: http://www.suda.edu.cn/
+- name: University College London
+  url: https://www.ucl.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include bioinformatics, computational biology and systems biology, especially in protein related biological problems.
@@ -21,9 +21,9 @@ interests:
 - Computational Biology
 - Systems Biology
 - Structure Bioinformatics
+- Protein Sequence & Structure & Dynamics & Function
 - Biological Network
 - Bioinformatics Algorithm
-- Sequence Conservation
 - Proteome Informatics
 - Allosteric Drug Design
 - Database
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yzhu99@stu.suda.edu.cn'
+  link: 'mailto:yu.zhu.22@ucl.ac.uk'
 
 - icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fab
