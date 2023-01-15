@@ -20,19 +20,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: yzhu99@stu.suda.edu.cn
+email: yu.zhu.22@ucl.ac.uk
 address:
-  street: Soochow University Dushu-Lake Campus
-  city: Suzhou
-  region: Jiangsu Province
-  postcode: '215000'
-  country: China
+  street: University College London
+  city: London
+  region: ''
+  postcode: ''
+  country: United Kingdom
 
-directions: Department of Bioinformatics, Center for Systems Biology
+directions: Division of Medicine
 
 coordinates:
-  latitude: '31.275500'
-  longitude: '120.726100'
+  latitude: ''
+  longitude: ''
   
 # directions: Center for Systems Biology
 
