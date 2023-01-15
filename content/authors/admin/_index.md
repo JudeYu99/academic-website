@@ -78,4 +78,4 @@ Under the guidance of Assoc. Prof. **Guang Hu** and Assoc. Prof. **Zhongjie Lian
 This personal page will no longer be updated.
 
 
-{{< icon name="download" pack="fas" >}} Download Personal CV {{< staticref "uploads/CV_2022_01_01.pdf" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Check Personal CV {{< staticref "uploads/CV_2022_01_01.pdf" "newtab" >}}here{{< /staticref >}}.
