@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location: Suzhou, China
     date_start: '2020-05-01'
-    date_end: ''
+    date_end: '2022-06-30'
     description: |2-
         Supervised by: Assoc. Prof. **Guang Hu** and Assoc. Prof. **Zhongjie Liang**
 
