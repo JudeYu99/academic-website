@@ -24,6 +24,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
+  date_end: "2022-12-31"
+  date_start: "2022-01-01"
+  organization: Soochow University
+  organization_url: http://www.suda.edu.cn/
+  title: Year 2022
+  url: ""
+  description: |2-
+    * Outstanding Graduate of Soochow University 2022
+    * Outstanding Undergraduate Design (Thesis) of Soochow University 2022
+    * National Software Copyright (Certificate registration number: 2022SR0518920)
+    * National Software Copyright (Certificate registration number: 2022SR0518921)
+    * The First Prize for China Undergraduate Life Science Contest
+
+
+- certificate_url: 
   date_end: "2021-12-31"
   date_start: "2021-01-01"
   organization: Soochow University
